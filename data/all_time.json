@@ -1,0 +1,246 @@
+{
+  "2018": [
+    {
+      "2018_DECEMBER": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2018_NOVEMBER": {
+        "total_km": 1.8,
+        "total_min": 14
+      },
+      "2018_OCTOBER": {
+        "total_km": 0,
+        "total_min": 0
+      }
+    }
+  ],
+  "2019": [
+    {
+      "2019_APRIL": {
+        "total_km": 4.0,
+        "total_min": 17
+      },
+      "2019_AUGUST": {
+        "total_km": 27.4,
+        "total_time": {
+          "hours": 4,
+          "minutes": 45
+        }
+      },
+      "2019_DECEMBER": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2019_FEBRUARY": {
+        "total_km": 2.0,
+        "total_min": 13
+      },
+      "2019_JANUARY": {
+        "total_km": 1.9,
+        "total_min": 18
+      },
+      "2019_JULY": {
+        "total_km": 57.5,
+        "total_time": {
+          "hours": 5,
+          "minutes": 32
+        }
+      },
+      "2019_JUNE": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2019_MARCH": {
+        "total_km": 2.1,
+        "total_min": 11
+      },
+      "2019_MAY": {
+        "total_km": 2.1,
+        "total_min": 8
+      },
+      "2019_NOVEMBER": {
+        "total_km": 36.2,
+        "total_time": {
+          "hours": 7,
+          "minutes": 12
+        }
+      },
+      "2019_OCTOBER": {
+        "total_km": 109.5,
+        "total_time": {
+          "hours": 7,
+          "minutes": 22
+        }
+      },
+      "2019_SEPTEMBER": {
+        "total_km": 46.3,
+        "total_time": {
+          "hours": 2,
+          "minutes": 26
+        }
+      }
+    }
+  ],
+  "2020": [
+    {
+      "2020_APRIL": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2020_AUGUST": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2020_DECEMBER": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2020_FEBRUARY": {
+        "total_km": 51.6,
+        "total_time": {
+          "hours": 6,
+          "minutes": 53
+        }
+      },
+      "2020_JANUARY": {
+        "total_km": 10.1,
+        "total_min": 33
+      },
+      "2020_JULY": {
+        "total_km": 21.6,
+        "total_min": 43
+      },
+      "2020_JUNE": {
+        "total_km": 60.2,
+        "total_time": {
+          "hours": 4,
+          "minutes": 45
+        }
+      },
+      "2020_MARCH": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2020_MAY": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2020_NOVEMBER": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2020_OCTOBER": {
+        "total_km": 0,
+        "total_min": 0
+      },
+      "2020_SEPTEMBER": {
+        "total_km": 43.1,
+        "total_time": {
+          "hours": 2,
+          "minutes": 53
+        }
+      }
+    }
+  ],
+  "2021": [
+    {
+      "2021_APRIL": {
+        "total_km": 9.9,
+        "total_min": 35
+      },
+      "2021_AUGUST": {
+        "total_km": 1298.3,
+        "total_time": {
+          "hours": 30,
+          "minutes": 8
+        }
+      },
+      "2021_DECEMBER": {
+        "total_km": 75.1,
+        "total_time": {
+          "hours": 2,
+          "minutes": 48
+        }
+      },
+      "2021_FEBRUARY": {
+        "total_km": 206.0,
+        "total_time": {
+          "hours": 6,
+          "minutes": 8
+        }
+      },
+      "2021_JANUARY": {
+        "total_km": 225.6,
+        "total_time": {
+          "hours": 9,
+          "minutes": 44
+        }
+      },
+      "2021_JULY": {
+        "total_km": 718.6,
+        "total_time": {
+          "hours": 17,
+          "minutes": 53
+        }
+      },
+      "2021_JUNE": {
+        "total_km": 473.3,
+        "total_time": {
+          "hours": 10,
+          "minutes": 28
+        }
+      },
+      "2021_MARCH": {
+        "total_km": 467.2,
+        "total_time": {
+          "hours": 10,
+          "minutes": 47
+        }
+      },
+      "2021_MAY": {
+        "total_km": 476.7,
+        "total_time": {
+          "hours": 8,
+          "minutes": 33
+        }
+      },
+      "2021_NOVEMBER": {
+        "total_km": 16.0,
+        "total_min": 51
+      },
+      "2021_OCTOBER": {
+        "total_km": 205.7,
+        "total_time": {
+          "hours": 7,
+          "minutes": 24
+        }
+      },
+      "2021_SEPTEMBER": {
+        "total_km": 170.1,
+        "total_time": {
+          "hours": 6,
+          "minutes": 33
+        }
+      }
+    }
+  ],
+  "2022": [
+    {
+      "2022_FEBRUARY": {
+        "total_km": 198.9,
+        "total_time": {
+          "hours": 7,
+          "minutes": 40
+        }
+      },
+      "2022_JANUARY": {
+        "total_km": 110.8,
+        "total_time": {
+          "hours": 4,
+          "minutes": 30
+        }
+      }
+    }
+  ]
+}
