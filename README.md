@@ -1,5 +1,5 @@
 # activity_tragle
-Google is tracking everything, we just look at it [here](https://takeout.google.com/).
+Google is tracking everything, we just have to look at it [here](https://takeout.google.com/).
 
 You need to download (at least) your **Location History** in ```.json```
 ![Location History](resources/Google-Takeout.png)
